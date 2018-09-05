@@ -1,0 +1,1 @@
+select * from V$SGA_DYNAMIC_FREE_MEMORY;

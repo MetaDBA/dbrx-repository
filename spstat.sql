@@ -1,0 +1,4 @@
+@shared_pool_lru_stats
+@shared_pool_free_lists
+@shared_pool_spare_free
+@reserved_pool_hwm
